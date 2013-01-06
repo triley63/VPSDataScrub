@@ -1,0 +1,1 @@
+D:\Projects\VPSDataScrub\VPS.Common.Data.UI.ConsoleApp.Scrubber\bin\Debug\VPS.Common.Data.UI.ConsoleApp.Scrubber.exe.config
