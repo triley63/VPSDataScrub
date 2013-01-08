@@ -1,1 +1,6 @@
 D:\Projects\VPSDataScrub\VPS.Common.Data.UI.ConsoleApp.Scrubber\bin\Debug\VPS.Common.Data.UI.ConsoleApp.Scrubber.exe.config
+D:\Projects\VPSDataScrub\VPS.Common.Data.UI.ConsoleApp.Scrubber\bin\Debug\VPS.Common.Data.UI.ConsoleApp.Scrubber.exe
+D:\Projects\VPSDataScrub\VPS.Common.Data.UI.ConsoleApp.Scrubber\bin\Debug\VPS.Common.Data.UI.ConsoleApp.Scrubber.pdb
+D:\Projects\VPSDataScrub\VPS.Common.Data.UI.ConsoleApp.Scrubber\obj\Debug\VPS.Common.Data.UI.ConsoleApp.Scrubber.csprojResolveAssemblyReference.cache
+D:\Projects\VPSDataScrub\VPS.Common.Data.UI.ConsoleApp.Scrubber\obj\Debug\VPS.Common.Data.UI.ConsoleApp.Scrubber.exe
+D:\Projects\VPSDataScrub\VPS.Common.Data.UI.ConsoleApp.Scrubber\obj\Debug\VPS.Common.Data.UI.ConsoleApp.Scrubber.pdb
